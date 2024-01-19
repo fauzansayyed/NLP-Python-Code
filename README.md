@@ -1,7 +1,11 @@
-# NLP-Python-Code
 # Spam or Ham Classification using Natural Language Processing
 
 Welcome to the Spam or Ham Classification project! The primary objective of this project is to perform classification on text messages, distinguishing between spam (unwanted or irrelevant messages) and ham (legitimate messages). The project aims to build a predictive model for spam detection using natural language processing techniques.
+
+## Code
+
+You can find the final code file [here](https://github.com/fauzansayyed/NLP-Python-Code/blob/main/github%20nlp%20project%20-%20Jupyter%20Notebook.pdf).
+
 
 ## Project Overview
 
@@ -38,9 +42,5 @@ The spam or ham classification model is built using the Naive Bayes algorithm, l
 
 After extensive model building and evaluation, the application of SMOTE in conjunction with the Naive Bayes algorithm has proven successful. The model achieves an accuracy exceeding 89%, indicating its proficiency in accurately classifying messages as spam or ham.
 
-Feel free to explore the codebase, experiment with different techniques, and contribute to the ongoing development of this project. Your engagement could contribute to the enhancement of spam detection methodologies and their application in real-world scenarios.
 
-## Code
-
-You can find the final code file [here](https://github.com/fauzansayyed/NLP-Python-Code/blob/main/github%20nlp%20project%20-%20Jupyter%20Notebook.pdf).
 
