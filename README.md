@@ -23,7 +23,6 @@ The dataset comprises a collection of text messages, with some labeled as spam a
 - Scikit-learn
 - Seaborn
 
-## Model Building
 # **Model Building**
 1. Decision Tree
 2. Logistic Regression
