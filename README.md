@@ -24,6 +24,13 @@ The dataset comprises a collection of text messages, with some labeled as spam a
 - Seaborn
 
 ## Model Building
+# **Model Building**
+1. Decision Tree
+2. Logistic Regression
+3. Random Forest
+4. Support Vector Machine
+5. ADABoost
+6. Gradient Boosting
 
 ### Naive Bayes
 The spam or ham classification model is built using the Naive Bayes algorithm, leveraging its effectiveness in natural language processing tasks. The model is trained on the dataset to learn patterns and characteristics of spam and ham messages.
